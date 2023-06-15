@@ -1,0 +1,12 @@
+<div class="card-group mt-2">
+
+  {% for tag in site.tags %}
+  <!-- <h3>{{ tag[0] }}</h3> -->
+  {% if tag[0]=='Self Mastery' %}
+    {% for post in tag[1] %}
+      {% include blog/post-card.html %}
+    {% endfor %}
+  {% endif %}
+  {% endfor %}
+  
+</div>

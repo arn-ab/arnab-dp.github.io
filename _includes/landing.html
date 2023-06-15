@@ -1,0 +1,22 @@
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center ">
+
+    <br><br><br><br><br><br>
+    <h1 style ="color: dodgerblue;">/hello 👋🏽</h1>
+    <h1 class="mt-auto"><span style ="font-weight: 100 ;">I am</span> <span style ="font-weight: 800 ;color: slategrey;">Arnab</span></h1>
+    {% include elements/button.html link="http://localhost:4000/about/" text="About Me" size="lg" %}
+    <!-- {% include elements/button.html link="http://localhost:4000/about/" text="Let's Talk" style="outline-dark" size="lg" %} -->
+
+    <br><br>
+  </div>
+</div>
+
+<!-- Cal floating-popup embed code begins -->
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+  Cal("init", {origin:"https://app.cal.com"});
+  
+  Cal("floatingButton", {"calLink":"goself/meet","buttonText":"Let's Talk"});
+  Cal("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false});
+  </script>
+  <!-- Cal floating-popup embed code ends -->

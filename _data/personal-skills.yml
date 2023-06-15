@@ -1,0 +1,19 @@
+- name: Prompt Engineering
+  percentage: 40
+  color: info
+
+- name: Volunteering
+  percentage: 60
+  color: info
+
+- name: UX Design
+  percentage: 20
+  color: info
+  
+- name: Kubernetes
+  percentage: 30
+  color: info
+
+- name: Web3
+  percentage: 10
+  color: info

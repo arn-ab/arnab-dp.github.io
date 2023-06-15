@@ -1,0 +1,35 @@
+- name: People + Talent
+  percentage: 90
+  color: warning
+
+- name: Agile Project Management
+  percentage: 80
+  color: warning
+
+- name: Coaching + Mentoring
+  percentage: 70
+  color: warning
+
+- name: Strategy
+  percentage: 80
+  color: warning
+
+- name: Planning
+  percentage: 80
+  color: warning
+
+- name: Facilitation
+  percentage: 70
+  color: warning
+
+- name: Stakeholder Mangement
+  percentage: 70
+  color: warning
+  
+- name: Organizational Leadership
+  percentage: 80
+  color: warning
+
+- name: Operational Excellence
+  percentage: 80
+  color: warning

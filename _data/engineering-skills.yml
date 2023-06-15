@@ -1,0 +1,36 @@
+- name: Distributed Systems
+  percentage: 90
+  color: primary
+
+- name: AWS Cloud Architecture
+  percentage: 80
+  color: primary
+
+- name: Event Processing + Kafka
+  percentage: 70
+  color: primary
+
+- name: Domain Driven Design
+  percentage: 90
+  color: primary
+
+- name: Web Application
+  percentage: 60
+  color: primary
+
+- name: DevOps
+  percentage: 70
+  color: primary
+
+- name: Java + Spring
+  percentage: 90
+  color: primary
+  
+- name: SQL + NoSQL DB
+  percentage: 80
+  color: primary
+
+- name: Typescript + React
+  percentage: 30
+  color: primary
+
