@@ -15,7 +15,7 @@
   color: primary
 
 - name: Web Application
-  percentage: 60
+  percentage: 70
   color: primary
 
 - name: DevOps
