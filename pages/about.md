@@ -42,7 +42,7 @@ Here are some of the internet facing applications that me and my teams worked on
 - [Payables](https://www.capitalone.com/commercial/solutions/payment-solutions/payables/) Payment Solutions at Capital One Commercial
 - [Intellix](https://intellix.capitalonebank.com/) at Capital One Commercial Bank
 
-{% include elements/button.html link="https://github.com" text="Download Resume" block=false %}
+{% include elements/button.html link="/assets/arnab-resume.pdf" text="Download Resume" block=false %}
 
 <!-- <div class="row">
 {% include about/timeline.html %}
