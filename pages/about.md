@@ -26,7 +26,7 @@ I love photography, traveling and food. I value transparency that is contextuall
 I had the privilege of working in many different roles throughout my career as a Software Engineer, Production Support Lead, Business Analyst, Solution Architect, Tech Lead, Front Line Manager, and Manager of Managers across companies like Shopify, Capital One, Barclays, as well as consulting. This diverse experience has shaped my approach to problem-solving, enabling me to view challenges from multiple perspectives, devise effective plans, and iterate towards achieving targets. It has also helped me establish myself as a trusted thought leader and change-maker.
 
 **{% include elements/highlight.html text="Driving Engineering Excellence and Growth" %}**
-Championed technology transformation by fostering a platform mindset, implementing reusable frameworks, embracing DevOps practices, and aligning the organization to develop cloud-native applications on AWS, accelerating innovation and efficiency.
+Led multiple engineering teams in building brand-new products, taking them from concept to launch (0 to 1), as well as scaling and stabilizing existing platforms for growth (1 to N). Developed a strong reputation for big-picture thinking, serving as a trusted engineering partner providing technical guidance, cultivating high-performing teams, and ensuring high-quality delivery through data-driven decision-making.
 
 **{% include elements/highlight.html text="Leading Technology Transformation" %}** 
 Accelerated technology transformation by promoting platform thinking, implementing reusable frameworks, leveraging DevOps practices, and fostering organizational alignment to build cloud-native applications.
