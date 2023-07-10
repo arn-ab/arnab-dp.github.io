@@ -16,7 +16,7 @@ Based on my experience conducting and participating in behavioral interviews, I 
 
 So, it's time to expand further on the STAR. May be we should call it **CoSTAR LLR** 🤔. Let's dive into it further.
 
-#### <span style="color:blue">**Co**</span>ntext, <span style="color:blue">**S**</span>ituation, <span style="color:blue">**T**</span>asks, <span style="color:blue">**A**</span>ction, <span style="color:blue">**R**</span>esults, <span style="color:blue">**L**</span>ong-term, <span style="color:blue">**L**</span>earning, <span style="color:blue">**R**</span>eflection
+#### <span style="color:dodgerblue">**Co**</span>ntext, <span style="color:dodgerblue">**S**</span>ituation, <span style="color:dodgerblue">**T**</span>asks, <span style="color:dodgerblue">**A**</span>ction, <span style="color:dodgerblue">**R**</span>esults, <span style="color:dodgerblue">**L**</span>ong-term, <span style="color:dodgerblue">**L**</span>earning, <span style="color:dodgerblue">**R**</span>eflection
 <br>
 #### <font color="green">Context</font>
 It is the broader background or circumstances surrounding a situation. It provides the necessary details and information to understand the environment, conditions, and factors that influenced the situation
@@ -44,13 +44,13 @@ Example : Let's say you were implementing a mobile applications as a front-end d
 #### Results
 What was the outcome of your action? Highlight and quantify achievements if possible.
 
-#### <font color="blue">Long-term Impact</font>
+#### <font color="dodgerblue">Long-term Impact</font>
 Expand the results further to highlight Long-term Impact beyond immediate time horizon
 
-#### <font color="blue">Learnings</font>
+#### <font color="dodgerblue">Learnings</font>
 Explain any lessons you learned or skills acquired
 
-#### <font color="red">Reflection</font>
+#### <font color="crimson">Reflection</font>
 With all that Learnings if you look back and do it all over again, what would you do differently? Would you change anything? Why or why not? This gives interviewer an window to how you might be apply your learning in future.
 
 > In a condensed version, SAR can be seen as a combination of these elements together  where S = Context + Situation, A = Task + Action, R = Results + Long-term Impact + Learning + Reflection.
@@ -58,21 +58,21 @@ With all that Learnings if you look back and do it all over again, what would yo
 ----
 Let's see how would this play out with a fictious event
 
-<span style="color:blue">Context</span> >  In a world of tranquil peace, where flowers bloomed abundantly and humanity reveled in an era of serenity, unaware of the perils lurking beyond, billions of people lived harmoniously. Among them, I was one curious soul with a makeshift lab to monitor extra terrestrial objects. 
+<span style="color:dodgerblue">Context</span> >  In a world of tranquil peace, where flowers bloomed abundantly and humanity reveled in an era of serenity, unaware of the perils lurking beyond, billions of people lived harmoniously. Among them, I was one curious soul with a makeshift lab to monitor extra terrestrial objects. 
 
-<span style="color:blue">Situation</span> >  It was on a day like any other when my extraterrestrial camera caught a flicker of movement hurtling towards Earth. Could it be another celestial planet? An asteroid? Or perhaps something entirely unforeseen? Intrigued, I embarked on a deeper investigation, analyzing the object's shape, speed, and trajectory. To my dismay, I discovered that it was indeed heading straight for Earth, posing a catastrophic threat capable of wiping out the entire human race. Based on its current velocity, it was estimated to arrive in a mere 15 days.
+<span style="color:dodgerblue">Situation</span> >  It was on a day like any other when my extraterrestrial camera caught a flicker of movement hurtling towards Earth. Could it be another celestial planet? An asteroid? Or perhaps something entirely unforeseen? Intrigued, I embarked on a deeper investigation, analyzing the object's shape, speed, and trajectory. To my dismay, I discovered that it was indeed heading straight for Earth, posing a catastrophic threat capable of wiping out the entire human race. Based on its current velocity, it was estimated to arrive in a mere 15 days.
 
-<span style="color:blue">Task</span> >  The time for action had arrived to save humanity
+<span style="color:dodgerblue">Task</span> >  The time for action had arrived to save humanity
 
-<span style="color:blue">Action</span> >  Swiftly, I shared my findings with governments and took charge of a mission to neutralize the impending catastrophe. Collaborating with Space Agency, international space academies, and militaries worldwide, I spearheaded the creation of a space force. Engineers, scientists, and soldiers rallied together, preparing to board the space shuttle. As the orchestrator, I brought people together, managed expectations, and devised a meticulous plan with multiple contingency points (Plan A, Plan B, Plan C). With just five days remaining, the decision was made to proceed with the launch.
+<span style="color:dodgerblue">Action</span> >  Swiftly, I shared my findings with governments and took charge of a mission to neutralize the impending catastrophe. Collaborating with Space Agency, international space academies, and militaries worldwide, I spearheaded the creation of a space force. Engineers, scientists, and soldiers rallied together, preparing to board the space shuttle. As the orchestrator, I brought people together, managed expectations, and devised a meticulous plan with multiple contingency points (Plan A, Plan B, Plan C). With just five days remaining, the decision was made to proceed with the launch.
 
-<span style="color:blue">Result</span> >  The courageous team successfully landed on the asteroid, drilling deep into its core to implant a nuclear bomb. Leaving with time to spare, they detonated the explosive, causing the celestial threat to shatter into countless fragments. It was a collective triumph—an act of salvation achieved through teamwork. Earth had been rescued on that fateful day!
+<span style="color:dodgerblue">Result</span> >  The courageous team successfully landed on the asteroid, drilling deep into its core to implant a nuclear bomb. Leaving with time to spare, they detonated the explosive, causing the celestial threat to shatter into countless fragments. It was a collective triumph—an act of salvation achieved through teamwork. Earth had been rescued on that fateful day!
 
-<span style="color:blue">Long-term Impact</span> >  In the months that followed, a global task force was established, with me leading the charge in enhancing our extraterrestrial security measures. This marked the inception of a new era in space exploration.
+<span style="color:dodgerblue">Long-term Impact</span> >  In the months that followed, a global task force was established, with me leading the charge in enhancing our extraterrestrial security measures. This marked the inception of a new era in space exploration.
 
-<span style="color:blue">Learning</span> >  This extraordinary experience taught me that with unwavering determination, collaborative efforts, and innovative thinking, even the most daunting challenges can be overcome. Humanity could implement automated alert systems and continue investing in advanced technologies to prevent and combat future threats of a similar nature.
+<span style="color:dodgerblue">Learning</span> >  This extraordinary experience taught me that with unwavering determination, collaborative efforts, and innovative thinking, even the most daunting challenges can be overcome. Humanity could implement automated alert systems and continue investing in advanced technologies to prevent and combat future threats of a similar nature.
 
-<span style="color:blue">Reflection</span> >  In hindsight, I realized that automating the alert system, which would have automatically transmitted the necessary details to Space Agency, could have saved valuable time instead of relying on manual intervention. This lesson emphasized the significance of automation in streamlining processes and expediting response times.
+<span style="color:dodgerblue">Reflection</span> >  In hindsight, I realized that automating the alert system, which would have automatically transmitted the necessary details to Space Agency, could have saved valuable time instead of relying on manual intervention. This lesson emphasized the significance of automation in streamlining processes and expediting response times.
 
 
 ##### References

@@ -7,7 +7,7 @@ comments: true
 description: Addressing the cons of Orchestration and Choreography 
 ---
 
-![](/assets/images/saga-microservice.png){: width="600" }
+![](/assets/images/saga-microservice.png){: width="800" }
 
 
 There is a lot of talk about Sagas and using choreography versus orchestration. I have referenced a few of them below. Having done this a few times with actual implementations, here are some of my thoughts.
@@ -31,7 +31,7 @@ You have picked one of the patterns to be your choice, given that it meets all o
 Let's look at slightly more detail for each approach. Our focus is on stateful services.
 
 
-#### <span style="color:blue">Choreography</span>
+#### <span style="color:dodgerblue">Choreography</span>
 
 ![](/assets/images/saga-choreography.png){: width="600" }
 <br>
@@ -46,7 +46,7 @@ Another challenge is related to troubleshooting knowledge. As services are decou
 
 The maintainability challenges can be reduced by making the support software beyond the services themselves equally important. In the picture above, I have a database that receives all the events from these services. Let's call it the*{% include elements/highlight.html text="flow stitcher" %}*. You can use something similar to stitch the flow after the fact and also build a UI or tooling around it to make it easier to view the overall flow, identify potential issues that might be blocking the flow, and then take corrective actions.
 
-#### <span style="color:blue">Orchestration</span>
+#### <span style="color:dodgerblue">Orchestration</span>
 ![](/assets/images/saga-orchestration.png){: width="600" }
 <br>
 
