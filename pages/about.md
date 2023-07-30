@@ -9,7 +9,7 @@ weight: 6
 
 # **About Me**
 
-I am an Engineering Leader with 20 years of experience in engineering management and full stack software development. I thrive in the intersection of technology and leadership, guiding teams towards success in ever changing world of Software Engineering. I specialize in `Software Engineering`, `Software Architecure`, `Organizational Design` and `Tech Transformation`.
+I am an Engineering Leader with 20 years of experience in engineering management and full stack software development. I thrive in the intersection of technology and leadership, guiding teams towards success in ever changing world of Software Engineering. I specialize in `Software Engineering`, `Software Architecture`, `Organizational Design` and `Tech Transformation`.
 
 With a passion for innovation and a deep understanding of the software development lifecycle, I bring extensive experience in strategizing, planning, and executing complex projects. By staying abreast of emerging technologies and industry trends, I continuously seek opportunities to optimize processes and deliver cutting-edge solutions.
 
