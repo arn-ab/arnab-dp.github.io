@@ -20,7 +20,7 @@ During a recent conversation with a leader, one of the discussion points was an 
 
 As a manager, your peer managers are your key team. Patrick Lencioni puts this as "Team number One". Here is the [video](https://www.youtube.com/watch?v=k9uM_6f5vmE) where talks about it with an example at executive level. This applies at all levels of leadership.
 
-### Benefits of focus on peers as a key team 
+### Benefits of focus on peers as the key team 
 
 Few benefits of you making success of this key team a top priority are
 
